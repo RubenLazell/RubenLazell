@@ -19,3 +19,6 @@ MSBA student at **Emory University** (Goizueta), working at the intersection of 
 **ML / Stats:** scikit-learn · XGBoost · Hugging Face Transformers · Monte Carlo simulation · mixed-integer programming  
 **Data viz:** plotnine · D3.js · Tableau  
 **Web:** React / Next.js · Vercel
+## 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rubenlazell-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubenlazell/)
